@@ -1,3 +1,6 @@
+![snake case to camel case python](https://github.com/rajat4665/Snake-case-to-camel-case.with-python/blob/master/Untitled2.png)
+
+
 In this repository, I will explain how to convert snake case string into camel case using a simple python script.
 
 <strong>Requirements:</strong>
@@ -31,5 +34,3 @@ print("Output :{}".format(b))</pre>
 	<li>enter the following command</li>
 	<li>python3 01-task.py</li>
 </ul>
-<h1></h1>
-<h1><strong>Output:</strong></h1>
